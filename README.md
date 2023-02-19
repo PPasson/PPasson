@@ -10,7 +10,7 @@ I am a junior full-stack developer.
 *   🖥️  See my portfolio at [www.passon-julnan.com](http://passon-julnan.com)
 *   ✉️  You can contact me at [passonpp@gmail.com](mailto:passonpp@gmail.com)
 *   
-*### Skills 
+### Skills 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
